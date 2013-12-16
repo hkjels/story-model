@@ -1,0 +1,14 @@
+{
+  "name": "story-model",
+  "repo": "hkjels/story-model",
+  "description": "Scrum story model",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/model": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"]
+}
